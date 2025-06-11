@@ -7,3 +7,5 @@ xhofe/alist:latest
 ghcr.io/open-webui/open-webui:main
 mysql:5.7
 mysql:8.0
+redis
+apache
