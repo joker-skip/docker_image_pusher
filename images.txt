@@ -11,3 +11,5 @@ redis
 httpd
 centos:7.3
 ubuntu
+elasticsearch
+minio
