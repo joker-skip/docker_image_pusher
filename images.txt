@@ -10,3 +10,4 @@ mysql:8.0
 redis
 httpd
 centos:7.3
+ubuntu
